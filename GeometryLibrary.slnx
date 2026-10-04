@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ClassLibrary/TextLibrary.csproj" />
+  <Project Path="ContactLibrary/ContactLibrary.csproj" />
+  <Project Path="GeometryLibrary/GeometryLibrary.csproj" />
+  <Project Path="TestApp/TestApp.csproj" />
+</Solution>
